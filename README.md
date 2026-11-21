@@ -1,7 +1,7 @@
 # dating
 
 ### mn.tflite - архитектура
-
+```
 INPUT
 [1, 224, 224, 3] uint8
          │
@@ -65,3 +65,4 @@ CONVOLUTIONAL BACKBONE
                              ▼
                            OUTPUT 1
                             [1, 6]
+```
